@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdpdate",
+        "uuid": 2302560,
+        "checksum": "hidfg2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
